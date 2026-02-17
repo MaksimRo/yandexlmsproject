@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="128" tileheight="128" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" source="block.tsx"/>
+ <layer id="5" name="slowroad" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1CEOACAMBMH+/9ENBtcEqgpiJjl1fiOgJ/dOP8CkV9259RCAP2l3tQAqTwbz
+  </data>
+ </layer>
+ <layer id="1" name="road" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzllkFuwjAQRYcN265asaxYULU3ALLonsIRiG/QqidgkTOw9jXYZd9L9CRVv2NbskzsTBIbkBjpK1HizPPY45kQ3af9ED37EkSHIjP3BC3M1RXYkvP9kZq5y5hWcOfHgee/vrb6euBwMY7+jPy5W6l3a56v9z7cEM8VxtU5uKW+F77wXObkhvx2vb8FLnKgLvU6yVfoLZLbKbnI+XoH2dyeRfgpua5Nsd42J9v4ubgv0BO+cc+E4ldYh5xcZW7MVnvtS35k5KqYHylek3JwlW0Qm1sP/TpRBXJ+LHcJvybHg5zKnD1Xdh9WQ6BMC9VMgfkWzP42httnTb+p6bnBXrrTY2RqLvyKWF/ZUve/wBAu5/zbMxvS3sw9JVcYnxwJU8tScJ1ecbYHfu5+Mnsoh5vLrs0tW2rOUD1Mmn1RvStoX8TLmZj8vjGfdP/TIReIkzd9hHgp1jMuaf9GXFKY
+  </data>
+ </layer>
+ <layer id="6" name="finish" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztz0ERACAMBLHWChYwjBSkUQH875MY2NkqAACAnN2Z7uo6ie783kT35wGiqAHs
+  </data>
+ </layer>
+ <layer id="4" name="spawn" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAIA6ClsX9El0IfSEDCtfkOAAAA1ALtRwAn
+  </data>
+ </layer>
+ <layer id="2" name="walls" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzl1TEOwCAMA0C+1P//i7lTFtQ0sbCTilpiQuSAUHWOMWbDuJpMc59ScV4vSK0o6BqGudZ666/CtXonuZn5L7qIzXYzNVVupnaVuxpK17O9vZzgRvbO20RsdG82r/j/Zu5C7Sr2zHajKNxoDRpmb9gmckdMc/ctdn0DLJedv9mVffPGDU1RNYY=
+  </data>
+ </layer>
+ <layer id="3" name="collisions" width="30" height="30" opacity="0.46">
+  <data encoding="base64" compression="zlib">
+   eJztk8kNwDAIBN2/m04DGGY55EgJEi9jZrn2Wmu/2DuN5iXvE/VU3z2dt7heD36uz432R+F6u2DlVXVFu0b6McE9/e3kEg23uJRDuVYctQyX5urg0lxqbEf/6G2RfOrcLIa6gxZX2W+vdqrz9CfSTLlWTIVLb1DlZmZnMTLcKAfhRnc0xY20KLOp7H1mvp3u1ddtX+be8Af7+cWl
+  </data>
+ </layer>
+</map>

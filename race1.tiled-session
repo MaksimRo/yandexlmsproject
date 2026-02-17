@@ -1,0 +1,60 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "racefirst.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "Roads.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.5
+        },
+        "block.tsx": {
+            "scaleInDock": 0.25
+        },
+        "racefirst.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1160.6060606060605,
+                "y": 2945.4545454545455
+            }
+        },
+        "rerere.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        }
+    },
+    "last.imagePath": "C:/Users/User/Desktop/petuhovproject/Spritesheets",
+    "map.fixedSize": true,
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "3",
+    "map.tileHeight": 70,
+    "map.tileWidth": 70,
+    "map.width": 50,
+    "openFiles": [
+        "racefirst.tmx",
+        "Roads.tsx",
+        "rerere.tsx"
+    ],
+    "project": "race1.tiled-project",
+    "recentFiles": [
+        "rerere.tsx",
+        "Roads.tsx",
+        "racefirst.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 70,
+        "width": 70
+    },
+    "tileset.type": 0
+}

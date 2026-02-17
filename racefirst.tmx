@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="128" tileheight="128" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" source="block.tsx"/>
+ <layer id="5" name="slowroad" width="30" height="30" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt1csRADAEBFDdpf+O0kAIw5KPnXHDO0mI6jKSq91229Xv3eV215pbXG4e6Uo7UG50PHeHdrneF12pt90c12Nb3dWs1olys1Lhot7Lk0zkv/BTJvEhdeA=
+  </data>
+ </layer>
+ <layer id="1" name="road" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILBAb7hwLQGyxkYGnYCaWQMFHMYSvYWAXEBA8OC02i4EIgtGRgS0O1VYmRgQMbk2luI5n5kbI2mllr+ZWRkSBBnYDgA0h8PMWMBCPsA/Qk1kyb2akL1guxsxmI+LexF9ivQ/gPYzKeFvf+B4QnSJw5xwwJ62bsc6ld0s+ll72m0MEaz1wGbOK3tBaY3ByD7AQwD+Q9oaW8BA+48TUt7bYBifkAMVKNACE8DhgG17KUE7ACahwsD7UwAlkkMtLCX2PgppIG9anjsUwHWJd5AOh+tzqEU7MCDTYF2KjNS07aRCQAR8rSl
+  </data>
+ </layer>
+ <layer id="6" name="finish" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAIA7BhBf8iudGwNmkCQJudHwDodHXwAI0=
+  </data>
+ </layer>
+ <layer id="4" name="spawn" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7Cpwb9EHOwjPK2CJgAAAN18BzixVCAAJw==
+  </data>
+ </layer>
+ <layer id="2" name="walls" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzl00sKwDAIBFCv1PvfK+vSRTdB8ZMZFCIIhaAv2naJyGrIZ3jud7Rm8GbpnBdhZ+tPzWotc8+n3zPjbihXO0f8v5X7fc8CcqP2n1ZMdyM9tT2iXa8fY89esF2rf3YvEVerO3Gj83a4Vm/2nqe7kUC5WRvpRu29BuFWMhMdLtKsvhu2y/BuzBesFanh
+  </data>
+ </layer>
+ <layer id="3" name="collisions" width="30" height="30" opacity="0.46">
+  <data encoding="base64" compression="zlib">
+   eJztztEJADAIA1H3d+lOYAkVwZIL3JeU14yIJCIyrtovrjLcnnt77+BWt0lXvTm4ynDf3E5T/8Xd4Tp1AEmMdIo=
+  </data>
+ </layer>
+</map>
